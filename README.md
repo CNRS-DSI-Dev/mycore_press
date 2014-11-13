@@ -1,6 +1,6 @@
 # My Core press 
 
-Slides in relation with ownCloud project at CNRS, project called My CoRe (formerly the name was ownCoRe). 
+Slides an documents in relation with ownCloud project at CNRS, project called My CoRe (formerly the name was ownCoRe). 
 
 ## Contributing
 
@@ -14,5 +14,5 @@ If you want to be informed about this ownCloud project at CNRS, please contact d
 |:---------------------|:-----------------------------------------|
 | **Author:**          | David Rousse (<david.rousse@dsi.cnrs.fr>)
 | **Copyright:**       | Copyright (c) 2014 CNRS DSI
-| **License:**         | AGPL v3, see the COPYING file.
+| **License:**         | AGPL v3.
 
