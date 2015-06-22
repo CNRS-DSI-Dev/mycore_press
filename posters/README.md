@@ -6,10 +6,13 @@ Posters in relation with ownCloud project at CNRS, project called My CoRe (forme
 
 These posters have been made to explain the internal deployment of ownCloud at CNRS (French National Center for Scientific Research).
 
-
 ## License and Author
 
-Please refer to README file in parent folder for licensing purpose. 
+|                      |                                          |
+|:---------------------|:-----------------------------------------|
+| **Author:**          | Pascal Ruetsch (<Pascal.RUETSCH@dsi.cnrs.fr>)
+| **Copyright:**       | Copyright (c) 2015 CNRS DSI
+| **License:**         | By default AGPL v3.
 
 ### Special license for images included in document JDEV-2015.pdf
 
