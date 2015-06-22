@@ -1,6 +1,6 @@
 # My CoRe press 
 
-Slides adn documents in relation with ownCloud project at CNRS, project called My CoRe (formerly the name was ownCoRe). 
+Slides and documents in relation with ownCloud project at CNRS, project called My CoRe (formerly the name was ownCoRe). 
 
 ## Contributing
 
